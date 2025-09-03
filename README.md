@@ -33,12 +33,12 @@ Following is the class diagram representing the relationships between classes in
 
 ## Prerequisites
 
-- **Python**: Version 3.6 or higher
+- **Python**: Version 3.13 or higher
 - **IDE (Optional)**: PyCharm, VSCode, or any Python-supporting editor
 
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/upc-pre-202510-1asi0572-sandbox/python-oop-review.git
+   git clone https://github.com/upc-pre-202520-1asi0572-3479/python-oop-review.git
    cd python-oop-review
